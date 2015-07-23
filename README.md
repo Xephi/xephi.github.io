@@ -1,2 +1,1 @@
-# Website
-Little Website
+http://xephi.github.io
